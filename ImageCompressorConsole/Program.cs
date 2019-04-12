@@ -21,7 +21,7 @@ namespace ImageCompressorConsole
             }
 
             Console.WriteLine("Images compressed successfully with best possible algorithm.");
-            Console.WriteLine("Thanks for using - Abhimanyu K Vatsa");
+            Console.WriteLine("Thanks for using - Knorish");
             Console.ReadKey();
         }
     }
