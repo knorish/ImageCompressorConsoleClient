@@ -8,6 +8,6 @@ With this project, you can bulk compress or optimize images inside any folder. Y
 
 Production Tested: I have used it to bulk compress images on production environment.
 
-Download Setup: https://github.com/itorian/BulkImageOptimizeOrCompress/blob/master/ImageCompressorConsole/dist/version-1.zip
+Download Setup: https://github.com/knorish/ImageCompressorConsoleClient/blob/master/ImageCompressorConsole/dist/version-1.zip
 
 Note: I noticed that Seqrite antivirus prompted me to allow this software when I was compressing images, this is because it operates on files directly.
